@@ -1,6 +1,5 @@
 # flutter_application_1
-
-A new Flutter project.
+It is a basic E-Commerce Application
 
 ## Getting Started
 
